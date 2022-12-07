@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexGomezUnal
-- 👀 I’m interested in js, C++ and Flutter 
-- 🌱 I’m currently learning guile, lisp, ada & algol68
+- 👀 I’m interested in js,java C++ and Flutter 
+- 🌱 I’m currently learning rust and openGL
 - 💞️ I’m looking to collaborate on any opensource project 
 - 📫 How to reach me email me at agomezal@unal.edu.co
 Twitter @AlexNullvoid
